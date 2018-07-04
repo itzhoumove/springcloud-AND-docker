@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @EnableAutoConfiguration尝试根据你添加的jar依赖，自动配置你的spring应用
  * @ComponentScan该类自动发现扫描组件
  */
+
 @SpringBootApplication
 public class ProviderUserApplication {
 	public static void main(String[] args) {
